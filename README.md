@@ -11,14 +11,14 @@ Objetivo do jogo:
 Fazer 4 pilhas de 13 cartas cada. Cada pilha deve ser feita na ordem crescente, do ás até o rei.
 
 Movimentos possíveis no jogo:
-[1-Mesa para Temporario] - Movimenta 1 carta da mesa para um temp livre;
-[2-Temporario para Mesa] - Movimenta 1 carta do temp para alguma mesa;
-[3-Mesa para Naipe] - Movimenta 1 carta da mesa para algum Naipe;
-[4-Mesa para Mesa] - Movimenta 1 carta de alguma mesa para outra;
-[5-Temp para Naipe] - Movimenta 1 carta de um Temp para um Naipe
-[6-Mesa para Mesa (varias)] - Movimenta N cartas de uma mesa para outra;
-[7-Naipe para Temp] - Movimenta 1 carta de um Naipe para um Temp;
-[8-Naipe para Mesa] - Movimenta 1 carta de um Naipe para uma mesa;
+* [1-Mesa para Temporario] - Movimenta 1 carta da mesa para um temp livre;
+* [2-Temporario para Mesa] - Movimenta 1 carta do temp para alguma mesa;
+* [3-Mesa para Naipe] - Movimenta 1 carta da mesa para algum Naipe;
+* [4-Mesa para Mesa] - Movimenta 1 carta de alguma mesa para outra;
+* [5-Temp para Naipe] - Movimenta 1 carta de um Temp para um Naipe
+* [6-Mesa para Mesa (varias)] - Movimenta N cartas de uma mesa para outra;
+* [7-Naipe para Temp] - Movimenta 1 carta de um Naipe para um Temp;
+* [8-Naipe para Mesa] - Movimenta 1 carta de um Naipe para uma mesa;
 
 OBS1: Os movimentos seguem às regras oficiais do freecell, em que uma carta só pode ser colocada sobre outra que seja de cor diferente e 1 valor acima dela e a quantidade de cartas que podem ser movimentadas se limitam a quantidade de cartas livres no temp + 1.
 
